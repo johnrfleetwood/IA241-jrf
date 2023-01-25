@@ -1,2 +1,2 @@
 # IA241-jrf
-IA 241 John Fleetwood
+IA 241 Repository for John Fleetwood
