@@ -38,6 +38,11 @@ print('hello, world. This is my first python string'.split('.'))
 
 #6.10
 #message = 'Tom's id is 123'
+#print(message)
 #Code would work if you use "" instead of ''
+
+
+
+
 
 
