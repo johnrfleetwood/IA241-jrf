@@ -1,6 +1,7 @@
 ''' 
 IA 241 Lab 2 
 John Fleetwood 
+Topic: Numbers, Variables, and Strings
 1/25/2023
 '''
 
