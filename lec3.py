@@ -55,5 +55,29 @@ print(my_list)
 #"In" shows the number within a list
 print(2 in my_list)
 
-#"len" shows how many items in the list
+#"len" shows how many items in the list my_list is an item in my_nested_list
 print(len(my_nested_list))
+
+#\t tabs between words
+print('hello\tworld')
+
+#\n starts a new line
+print('hello\nworld')
+
+#len() counts the numer of charaters in a string
+print(len('hello world'))
+
+#example of when to use ':'
+print('hello world.' [0:5])
+
+#set() example (set gets rip of duplicates and it does not remember order so you cannot index)
+my_letters = ['a','a', 'b','b','c']
+print(my_letters)
+print(set(my_letters))
+
+#in operator checks the membership of object
+my_letters_set = set(my_letters)
+print('a' in my_letters_set)
+
+#index a "set" convert it into a list
+print(list(my_letters_set)[0])
