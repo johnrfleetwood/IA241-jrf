@@ -81,6 +81,3 @@ print('a' in my_letters_set)
 
 #index a "set" convert it into a list
 print(list(my_letters_set)[0])
-
-
-
