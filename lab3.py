@@ -1,5 +1,5 @@
 ''' 
-IA 241 Lab 2 
+IA 241 Lab 3
 John Fleetwood 
 Topic: List and Set
 2/1/2023
@@ -31,3 +31,15 @@ print(len("This is my third python lab.".split()))
 
 #3.7
 num_list = [12, 32, 43, 35]
+num_list.sort()
+print(num_list[0])
+print(num_list[-1])
+
+#3.8
+game_board = [
+    [0,0,0],
+    [0,0,0],
+    [0,0,0]]
+print(game_board)
+game_board[1][1]=1
+print(game_board)
