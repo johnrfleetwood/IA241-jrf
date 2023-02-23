@@ -30,7 +30,7 @@ if 'pineapple' in favorite_fruits:
         print('I like blueberries in muffins')
 
 #3.4
-age = 21
+age = 2
 if age < 10:
     print("this is a kid")
 elif 10 <= age < 20:
