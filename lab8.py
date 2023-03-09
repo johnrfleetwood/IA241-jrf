@@ -9,9 +9,9 @@ def count_words(input_str):
     return len(input_str.split())
 #print(count_words('Hello World!'))
 
-
 #3.2
-print(count_words('Hello World!'))
+demo_str = "hello world!"
+print(count_words(demo_str))
 
 #3.3
 def find_min(num_list):
